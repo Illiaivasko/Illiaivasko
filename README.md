@@ -60,21 +60,6 @@ I build robust REST APIs and optimize business logic for high-load systems. I tr
 
 ---
 
-### 🏆 Featured Project
-
-#### 🛒 **E-Commerce API (Demo Shop)**
-*A full-cycle online store backend with OAuth2 authorization and payment integration.*
-
-- **Stack:** Django REST Framework, PostgreSQL, Redis, Celery, Docker, Nginx.
-- **Key Features:**
-    - 🔐 OAuth2 Authentication.
-    - 💳 Stripe payment integration.
-    - ⚡ Async tasks processing (Redis + Celery).
-    - 🚀 Production-ready deployment using Gunicorn + Nginx.
-- **Live Demo:** [store-deploy.up.railway.app](https://store-deploy.up.railway.app)
-
----
-
 ### 📬 Connect with me
 
 <p align="left">
