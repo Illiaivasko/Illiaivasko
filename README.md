@@ -1,16 +1,17 @@
 # Hi, I'm Illia :wave:
 
-**Python Backend Developer** based in Lviv, Ukraine.
+**Python Backend Developer**
 
-I build robust REST APIs and optimize business logic for high-load systems. I treat code architecture like a chess game—strategic, analytical, and efficient. Currently expanding my horizons into **FastAPI** and **Web Scraping**.
+With **2+ years of experience**, I build robust REST APIs and optimize business logic for high-load systems. I treat code architecture like a chess game—strategic, analytical, and efficient.
 
 ---
 
 ### 🚀 About Me
 
-- 💼 **Focus:** Building secure, scalable infrastructures with **Django** & **Docker**.
-- 🔭 **Currently Learning:** Deep diving into **FastAPI** and advanced automation with **Selenium/Playwright**.
-- ♟️ **Hobbies:** Analytical challenges & Chess (2nd sports rank).
+- 💼 **Experience:** 2+ years in Backend development, focusing on **Django** & **Docker**.
+- 🛠️ **Current Focus:** Building scalable infrastructures & mastering **FastAPI**.
+- 🔭 **Expanding into:** Advanced Web Scraping (Selenium/Playwright).
+- ♟️ **Personal:** Chess player (2nd sports rank) & analytical thinker.
 - 🎓 **Education:** Computer Science at Lviv Polytechnic (2024 — 2029).
 
 ---
