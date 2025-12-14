@@ -2,7 +2,7 @@
 
 **Python Backend Developer**
 
-With **2+ years of experience**, I build robust REST APIs and optimize business logic for high-load systems. I treat code architecture like a chess game—strategic, analytical, and efficient.
+With **2+ years of experience**, I build robust REST APIs and optimize business logic for high-load systems. I treat code architecture like a chess game-strategic, analytical, and efficient.
 
 ---
 
@@ -12,7 +12,7 @@ With **2+ years of experience**, I build robust REST APIs and optimize business 
 - 🛠️ **Current Focus:** Building scalable infrastructures & mastering **FastAPI**.
 - 🔭 **Expanding into:** Advanced Web Scraping (Selenium/Playwright).
 - ♟️ **Personal:** Chess player (2nd sports rank) & analytical thinker.
-- 🎓 **Education:** Computer Science at Lviv Polytechnic (2024 — 2029).
+- 🎓 **Education:** Computer Science at Lviv Polytechnic (2024 - 2029).
 
 ---
 
