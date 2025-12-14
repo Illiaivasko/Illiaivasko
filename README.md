@@ -10,7 +10,6 @@ With **2+ years of experience**, I build robust REST APIs and optimize business 
 
 - 💼 **Experience:** 2+ years in Backend development, focusing on **Django** & **Docker**.
 - 🛠️ **Current Focus:** Building scalable infrastructures & mastering **FastAPI**.
-- 🔭 **Expanding into:** Advanced Web Scraping (Selenium/Playwright).
 - ♟️ **Personal:** Chess player (2nd sports rank) & analytical thinker.
 - 🎓 **Education:** Computer Science at Lviv Polytechnic (2024 - 2029).
 
