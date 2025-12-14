@@ -2,7 +2,7 @@
 
 **Python Backend Developer**
 
-With **2+ years of experience**, I build robust REST APIs and optimize business logic for high-load systems. I treat code architecture like a chess game-strategic, analytical, and efficient.
+With **2+ years of experience**, I focus on building robust REST APIs and optimizing logic for large-scale projects. To keep my problem-solving skills sharp, I play chess—it trains the analytical mindset I bring to software architecture.
 
 ---
 
