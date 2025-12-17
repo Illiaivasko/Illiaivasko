@@ -2,13 +2,13 @@
 
 **Python Backend Developer**
 
-With **2+ years of experience**, I focus on building robust REST APIs and optimizing logic for large-scale projects. To keep my problem-solving skills sharp, I play chess-it trains the analytical mindset I bring to software architecture.
+With **1+ years of experience**, I focus on building robust REST APIs and optimizing logic for large-scale projects. To keep my problem-solving skills sharp, I play chess-it trains the analytical mindset I bring to software architecture.
 
 ---
 
 ### 🚀 About Me
 
-- 💼 **Experience:** 2+ years in Backend development, focusing on **Django** & **Docker**.
+- 💼 **Experience:** 1+ years in Backend development, focusing on **Django** & **Docker**.
 - 🛠️ **Current Focus:** Building scalable infrastructures & mastering **FastAPI**.
 - ♟️ **Personal:** Chess player (2nd sports rank) & analytical thinker.
 - 🎓 **Education:** Computer Science at Lviv Polytechnic (2024 - 2029).
