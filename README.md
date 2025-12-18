@@ -2,7 +2,9 @@
 
 **Python Backend Developer**
 
-With **1+ years of experience**, I focus on building robust REST APIs and optimizing logic for large-scale projects. To keep my problem-solving skills sharp, I play chess-it trains the analytical mindset I bring to software architecture.
+Result-oriented Python Developer with hands-on experience in building e-commerce platforms and automation tools.
+Proficient in Django/FastAPI ecosystem, cloud deployment (AWS), and database optimization. Chess player with a
+strategic mindset applied to architectural problem-solving.
 
 ---
 
