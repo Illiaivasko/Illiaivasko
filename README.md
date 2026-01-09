@@ -1,65 +1,61 @@
-# Hi, I'm Illia :wave:
+# Hi, I'm Illia Ivashko 👋
+**Python Backend Developer | Independent Contractor**
 
-**Python Backend Developer**
-
-Result-oriented Python Developer with hands-on experience in building e-commerce platforms and automation tools.
-Proficient in Django/FastAPI ecosystem, cloud deployment (AWS), and database optimization. Chess player with a
-strategic mindset applied to architectural problem-solving.
+<table align="center">
+  <tr>
+    <td width="65%" valign="top">
+      <p>Python Developer with <b>over 1 year of experience</b> who enjoys building stable backends and automating complex data flows.</p>
+      <p>Proficient in the Django/FastAPI ecosystem, cloud deployment (AWS), and database optimization. I focus on writing code that is easy to maintain and scaling systems to handle real-world growth.</p>
+      <p>🚀 <b>Ready for full-time employment.</b></p>
+    </td>
+    <td width="35%" align="center">
+      <img src="python_symbols.gif" width="150" alt="Python Logo Animation" />
+    </td>
+  </tr>
+</table>
 
 ---
 
-### 🚀 About Me
+### 🚀 Quick Overview
 
-- 💼 **Experience:** 1+ years in Backend development, focusing on **Django** & **Docker**.
-- 🛠️ **Current Focus:** Building scalable infrastructures & mastering **FastAPI**.
-- ♟️ **Personal:** Chess player (2nd sports rank) & analytical thinker.
-- 🎓 **Education:** Computer Science at Lviv Polytechnic (2024 - 2029).
+- 💼 **Experience:** 1+ years in Backend development (Independent Contractor).
+- 🛠️ **Current Focus:** Scaling infrastructures with **AWS** and mastering **FastAPI**.
+- ♟️ **Personal:** **Chess player (2nd sports rank)** — applying strategic planning and logical problem-solving to code.
+- 🎓 **Education:** Computer Science at **Lviv Polytechnic National University** (2024 - 2029).
+- ⚡ **Availability:** Open for Full-time roles.
 
 ---
 
 ### 🛠️ Technical Stack
 
-<table>
-  <tbody>
-    <tr>
-      <td width="65%" valign="middle">
-        <h4>Languages & Core</h4>
-        <a href="https://www.python.org/" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" /></a>
-        <a href="https://www.postgresql.org/" target="_blank"><img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" /></a>
-        <a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash" /></a>
-        <br><br>
-        <h4>Web Fundamentals</h4>
-        <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" /></a>
-        <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" /></a>
-        <a href="https://www.w3.org/XML/" target="_blank"><img src="https://img.shields.io/badge/XML-000000?style=for-the-badge&logo=xml&logoColor=white" alt="XML" /></a>
-        <br><br>
-        <h4>Backend Frameworks</h4>
-        <a href="https://www.djangoproject.com/" target="_blank"><img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" /></a>
-        <a href="https://www.django-rest-framework.org/" target="_blank"><img src="https://img.shields.io/badge/DRF-a30f2d?style=for-the-badge&logo=django&logoColor=white" alt="DRF" /></a>
-        <a href="https://fastapi.tiangolo.com/" target="_blank"><img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" /></a>
-        <br><br>
-        <h4>Scraping & Automation</h4>
-        <a href="https://www.selenium.dev/" target="_blank"><img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium" /></a>
-        <a href="https://playwright.dev/" target="_blank"><img src="https://img.shields.io/badge/Playwright-45ba4b?style=for-the-badge&logo=Playwright&logoColor=white" alt="Playwright" /></a>
-        <a href="https://www.crummy.com/software/BeautifulSoup/" target="_blank"><img src="https://img.shields.io/badge/BeautifulSoup-000000?style=for-the-badge&logo=python&logoColor=white" alt="BeautifulSoup" /></a>
-        <br><br>
-        <h4>Infrastructure & Tools</h4>
-        <a href="https://aws.amazon.com/" target="_blank"><img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" /></a>
-        <a href="https://www.docker.com/" target="_blank"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" /></a>
-        <a href="https://www.postgresql.org/" target="_blank"><img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" /></a>
-        <a href="https://www.mongodb.com/" target="_blank"><img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" /></a>
-        <a href="https://redis.io/" target="_blank"><img src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" /></a>
-        <a href="https://nginx.org/" target="_blank"><img src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx" /></a>
-        <a href="https://git-scm.com/" target="_blank"><img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" /></a>
-      </td>
-      <td width="35%" valign="middle" align="center">
-        <a href="https://t.me/illia_python" target="_blank">
-          <img src="python_symbols.gif" width="100%" alt="Python Animation" />
-        </a>
-      </td>
-    </tr>
-  </tbody>
-</table>
+| Category | Technologies |
+| :--- | :--- |
+| **Languages** | Python, SQL, Bash |
+| **Frameworks** | Django, Django REST Framework (DRF), FastAPI |
+| **Databases** | PostgreSQL, Redis, MongoDB |
+| **DevOps & Cloud** | Docker, Docker Compose, AWS (S3, EC2), CI/CD (GitHub Actions), Nginx, Gunicorn |
+| **Automation** | Selenium, Playwright, Pytest, Unittest |
+| **Tools** | Git, OAuth2, Celery, Stripe API, Postman, Swagger/OpenAPI |
+
+---
+
+### 🌟 Featured Project: [E-commerce Platform](https://github.com/Illiaivasko/clothing-store-public)
+*A full-featured online store built to master clean architecture and modularity in Django.*
+
+- ⚡ **Performance:** Used **Redis** for caching to take **20%** of the load off the primary database.
+- 🔒 **Security:** Integrated **OAuth2** (Google/Github) and **Stripe API** for secure payments.
+- ⚙️ **Async Tasks:** Offloaded heavy tasks (emails, orders) to **Celery** for high responsiveness.
+
+---
+
+### 📈 Professional Experience Highlights
+
+**Independent Contractor / Freelance Developer** *(Nov 2024 — Present)*
+
+- **Parser Development:** Built and scaled **10+ scrapers** (Selenium/Playwright), automating data extraction from **50+ sources**.
+- **Legacy Systems:** Took ownership of a large Django project, ensuring **99.9% uptime**.
+- **Optimization:** Improved request processing speed by **15%** through smarter SQL queries and indexing.
+- **Infrastructure:** Configured secure media storage with **AWS S3** and automated deployment with **Docker**.
 
 ---
 
@@ -67,6 +63,6 @@ strategic mindset applied to architectural problem-solving.
 
 <p align="left">
 <a href="https://www.linkedin.com/in/illia-ivashko" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="40" /></a>
-<a href="https://t.me/illia_python" target="blank"><img align="center" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="illia_python" height="40" /></a>
-<a href="mailto:illaivasko837@icloud.com"><img align="center" src="https://img.shields.io/badge/iCloud-3693F3?style=for-the-badge&logo=icloud&logoColor=white" alt="Email" height="40" /></a>
+<a href="https://t.me/illia_python" target="blank"><img align="center" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" height="40" /></a>
+<a href="mailto:illaivasko837@icloud.com"><img align="center" src="https://img.shields.io/badge/Email-3693F3?style=for-the-badge&logo=icloud&logoColor=white" alt="Email" height="40" /></a>
 </p>
