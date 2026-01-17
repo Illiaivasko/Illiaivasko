@@ -21,7 +21,7 @@
 - 💼 **Experience:** 1+ years in Backend development (Independent Contractor).
 - 🛠️ **Current Focus:** Scaling infrastructures with **AWS** and mastering **FastAPI**.
 - ♟️ **Personal:** **Chess player (2nd sports rank)** — applying strategic planning and logical problem-solving to code.
-- 🎓 **Education:** Computer Science at **Lviv Polytechnic National University** (2024 - 2029).
+- 🎓 **Education:** Computer Science at **Lviv Polytechnic National University** (2024 - 2028).
 - ⚡ **Availability:** Open for Full-time roles.
 
 ---
