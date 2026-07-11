@@ -1,12 +1,12 @@
-# Hi, I'm Illia Ivashko 👋
-**Python Backend Developer | Independent Contractor**
+# Hey, I'm Illia Ivashko
+**Python Backend & AI Engineer**
 
 <table align="center">
   <tr>
     <td width="65%" valign="top">
-      <p>Python Developer with <b>over 1 year of experience</b> who enjoys building stable backends and automating complex data flows.</p>
-      <p>Proficient in the Django/FastAPI ecosystem, cloud deployment (AWS), and database optimization. I focus on writing code that is easy to maintain and scaling systems to handle real-world growth.</p>
-      <p>🚀 <b>Ready for full-time employment.</b></p>
+      <p>Python Backend Developer with <b>nearly 3 years of commercial experience</b>, specializing in AI-driven applications, LLMOps, and microservices architecture.</p>
+      <p>Proficient in the FastAPI and Django ecosystems, cloud infrastructure (AWS, GCP), and building complex data pipelines. I focus on engineering highly scalable, resilient backend systems, optimizing database performance, and implementing dynamic LLM agent workflows.</p>
+      <p><b>Always open to discussing backend architecture and new professional opportunities.</b></p>
     </td>
     <td width="35%" align="center">
       <img src="python_symbols.gif" width="150" alt="Python Logo Animation" />
@@ -16,50 +16,54 @@
 
 ---
 
-### 🚀 Quick Overview
+### Quick Overview
 
-- 💼 **Experience:** 1+ years in Backend development (Independent Contractor).
-- 🛠️ **Current Focus:** Scaling infrastructures with **AWS** and mastering **FastAPI**.
-- ♟️ **Personal:** **Chess player (2nd sports rank)** — applying strategic planning and logical problem-solving to code.
-- 🎓 **Education:** Computer Science at **Lviv Polytechnic National University** (2024 - 2028).
-- ⚡ **Availability:** Open for Full-time roles.
-
+- **Experience:** ~3 years in Python Backend & AI Development.
+- **Current Focus:** LLMOps, Agent Workflows (LangChain, OpenAI, Anthropic SDK), and scalable REST/GraphQL APIs (FastAPI, Django Ninja).
+- **Personal:** Chess player (2nd sports rank) — applying strategic planning and analytical problem-solving to backend architecture.
 ---
 
-### 🛠️ Technical Stack
+### Technical Stack
 
 | Category | Technologies |
 | :--- | :--- |
 | **Languages** | Python, SQL, Bash |
-| **Frameworks** | Django, Django REST Framework (DRF), FastAPI |
-| **Databases** | PostgreSQL, Redis, MongoDB |
-| **DevOps & Cloud** | Docker, Docker Compose, AWS (S3, EC2), CI/CD (GitHub Actions), Nginx, Gunicorn |
-| **Automation** | Selenium, Playwright, Pytest, Unittest |
-| **Tools** | Git, OAuth2, Celery, Stripe API, Postman, Swagger/OpenAPI |
+| **AI & LLMOps** | LangChain, LangGraph, OpenAI API, Anthropic SDK, LiteLLM, Ollama |
+| **Frameworks & APIs** | FastAPI, Django, Django Ninja, REST, GraphQL, gRPC |
+| **Databases & Vector Stores** | PostgreSQL (pgvector), Qdrant, Redis, MongoDB |
+| **DevOps & Observability** | AWS (S3, EC2), GCP, Docker, Kubernetes (Basic), LangSmith, Prometheus, Grafana |
+| **Architecture & Data** | Celery, RabbitMQ, Apache Kafka, Scrapy, Playwright, Selenium |
 
 ---
 
-### 🌟 Featured Project: [E-commerce Platform](https://github.com/Illiaivasko/clothing-store-public)
+### Featured Project: [E-commerce Platform](https://github.com/Illiaivasko/clothing-store-public)
 *A full-featured online store built to master clean architecture and modularity in Django.*
 
-- ⚡ **Performance:** Used **Redis** for caching to take **20%** of the load off the primary database.
-- 🔒 **Security:** Integrated **OAuth2** (Google/Github) and **Stripe API** for secure payments.
-- ⚙️ **Async Tasks:** Offloaded heavy tasks (emails, orders) to **Celery** for high responsiveness.
+- **Performance:** Implemented Redis caching to reduce primary database load by 20%.
+- **Security:** Integrated OAuth2 (Google/GitHub) and Stripe API for secure user authentication and payments.
+- **Async Tasks:** Offloaded complex background processes (email notifications, order processing) to Celery for high system responsiveness.
 
 ---
 
-### 📈 Professional Experience Highlights
+### Professional Experience Highlights
 
-**Independent Contractor / Freelance Developer** *(Nov 2024 — Present)*
+**Python Backend & AI Developer | NDA** *(Nov 2025 — Present)*
+- Developed an AI-powered conversational microservice enabling users to execute complex transactional workflows via chat.
+- Implemented dynamic function calling for external tool routing (Tavily) and managed complex LLM state/caching with Redis.
+- Built enterprise-grade observability pipelines using LangSmith, Langfuse, and distributed tracing tools.
 
-- **Parser Development:** Built and scaled **10+ scrapers** (Selenium/Playwright), automating data extraction from **50+ sources**.
-- **Legacy Systems:** Took ownership of a large Django project, ensuring **99.9% uptime**.
-- **Optimization:** Improved request processing speed by **15%** through smarter SQL queries and indexing.
-- **Infrastructure:** Configured secure media storage with **AWS S3** and automated deployment with **Docker**.
+**Python Backend Developer | NDA** *(Mar 2025 — Oct 2025)*
+- Designed core REST and GraphQL APIs using Django Ninja and Pydantic for a multi-tenant B2B SaaS platform.
+- Integrated global payment gateways with asynchronous secure webhook handlers via Celery and RabbitMQ.
+- Established AI infrastructure foundations utilizing Qdrant for vector search.
+
+**Python Developer | Outsource & Freelance** *(Sep 2023 — Feb 2025)*
+- Engineered robust, high-volume data extraction solutions deployed on GCP, streaming aggregated data via Kafka into MongoDB.
+- Built scalable backend endpoints for custom e-commerce and transactional platforms using Django and DRF.
 
 ---
 
-### 📬 Connect with me
+### Connect with me
 
 <p align="left">
 <a href="https://www.linkedin.com/in/illia-ivashko" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="40" /></a>
