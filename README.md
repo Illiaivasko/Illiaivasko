@@ -1,15 +1,14 @@
 # Hey, I'm Illia Ivashko
 **Python Backend & AI Engineer**
-
-<table align="center">
+<table>
   <tr>
-    <td width="65%" valign="top">
+    <td width="70%" valign="top">
       <p>Python Backend Developer with <b>nearly 3 years of commercial experience</b>, specializing in AI-driven applications, LLMOps, and microservices architecture.</p>
       <p>Proficient in the FastAPI and Django ecosystems, cloud infrastructure (AWS, GCP), and building complex data pipelines. I focus on engineering highly scalable, resilient backend systems, optimizing database performance, and implementing dynamic LLM agent workflows.</p>
       <p><b>Always open to discussing backend architecture and new professional opportunities.</b></p>
     </td>
-    <td width="35%" align="center">
-      <img src="python_symbols.gif" width="150" alt="Python Logo Animation" />
+    <td width="30%" align="center" valign="middle">
+      <img src="python_symbols.gif" width="220" alt="Python Logo Animation" />
     </td>
   </tr>
 </table>
